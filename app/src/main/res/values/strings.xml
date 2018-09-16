@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WebViewDemo</string>
+    <string name="title_home">Home</string>
+    <string name="title_promise">Promise</string>
+    <string name="title_download">Download</string>
+    <string name="title_contact">Contact</string>
+    <string name="title_dashboard">Dashboard</string>
+</resources>

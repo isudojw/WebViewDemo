@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/web_menu_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/title_home"/>
+
+    <item
+        android:id="@+id/web_menu_promise"
+        android:icon="@drawable/ic_vpn_key_black_24dp"
+        android:title="@string/title_promise"/>
+
+    <item
+        android:id="@+id/web_menu_download"
+        android:icon="@drawable/ic_file_download_black_24dp"
+        android:title="@string/title_download"/>
+
+    <item
+        android:id="@+id/web_menu_contact"
+        android:icon="@drawable/ic_email_black_24dp"
+        android:title="@string/title_contact"/>
+
+    <item
+        android:id="@+id/web_menu_try_now"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="@string/title_dashboard"/>
+
+</menu>
